@@ -1,0 +1,17 @@
+git init
+
+git add fileName
+git add .
+git add -A
+git add *
+git add *.html
+
+
+git rm --cached file.txt
+
+git commit -m "Some chang"
+
+git log
+git log --oneline
+
+git show
